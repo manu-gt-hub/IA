@@ -1,18 +1,29 @@
-AI & LLM Practice Exercises
+🧠 AI & LLM Practice Exercises
+Welcome to the AI & LLM Practice Exercises repository — a curated collection of hands-on examples focused on Large Language Models (LLMs) and selected traditional Machine Learning (ML) techniques. This resource is designed for learning, experimentation, and exploration in the rapidly evolving field of AI.
 
-This repository contains a collection of practice exercises focused primarily on Large Language Models (LLMs), with some examples related to traditional Machine Learning (ML). It is intended for learning, exploration, and experimentation.
+📦 What's Inside
+🤖 Prompt Engineering & LLM Interaction
+Learn how to craft effective prompts and interact with modern language models.
 
-What's Inside
+✍️ Text Generation, Summarization & Q&A
+Generate coherent text, summarize documents, and build question-answering pipelines.
 
-Prompt engineering and LLM interaction
+😊 Sentiment Analysis
+Analyze the tone and emotion behind textual content.
 
-Text generation, summarization, and Q&A
+📊 Basic ML Tasks
+Practice common machine learning techniques like:
 
-Sentiment analysis
+Classification
+Regression
 
-Basic ML tasks (classification, regression)
+⚠️ Disclaimer
+This repository is for educational purposes only.
+Some exercises rely on pre-trained models and sample datasets that may produce:
 
+Biased results
+Inaccurate outputs
+Inappropriate content
 
-Disclaimer
+Use at your own risk — the author is not liable for any downstream consequences.
 
-This repository is for educational purposes only. The exercises may involve pre-trained models and sample data that can produce biased, inaccurate, or inappropriate results. Any downstream use is the sole responsibility of the user. These materials are not guaranteed to be suitable for production, commercial, or sensitive applications.
